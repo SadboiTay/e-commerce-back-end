@@ -17,7 +17,7 @@
 https://watch.screencastify.com/v/B3EZu3dP5RrcryDdHcsz
 
   # Installation
-  Clone this repo into the desired location on your machine and install the necessary dependencies (see package.json). Create a .env file at the root directory and add "DB_NAME='ecommerce_db'", "DB_USER='<your SQL username>'", and "DB_PW='<your SQL password>'" to create the local db connection. From the mySQL shell you can run source db/schema.sql to create the database, and then exit the shell and run "npm run seed" to seed the database. "npm start" will initiate your server and expose your powerful new api library.
+  Clone this repo into the desired location on your machine and install the necessary dependencies (see package.json). Create a .env file at the root directory and add "DB_NAME='ecommerce_db'", "DB_USER='your SQL username'", and "DB_PW='your SQL password'" to create the local db connection. From the mySQL shell you can run source db/schema.sql to create the database, and then exit the shell and run "npm run seed" to seed the database. "npm start" will initiate your server and expose your powerful new api library.
 
   # Usage
   Follow the installation steps to initialze a local db and server. From there, you can customize the /seeds directory with specific retail records you need to populate your database with. Hitching to a front end will allow any CRUD operations you need to offer clients. 

@@ -22,13 +22,8 @@ https://watch.screencastify.com/v/B3EZu3dP5RrcryDdHcsz
   # Usage
   Follow the installation steps to initialze a local db and server. From there, you can customize the /seeds directory with specific retail records you need to populate your database with. Hitching to a front end will allow any CRUD operations you need to offer clients. 
 
-  # Contributing
-  no
-
   # Tests
   No tests have been written for this project
-
-  # Questions
   
   # Built With
   * Sequelize ORM
@@ -36,7 +31,8 @@ https://watch.screencastify.com/v/B3EZu3dP5RrcryDdHcsz
   * Express.js
   * MySQL2
   * dotenv npm
-  
+
+  # Questions
 
   * GitHub user: SadboiTay
   * https://github.com/SadboiTay
